@@ -1,0 +1,95 @@
+﻿
+@using BOL;
+@{
+    Employee emp = ViewBag.ResultEmployee;
+    Console.WriteLine(emp);
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0066cc;
+        }
+
+        h4 {
+            color: #333;
+            margin-top: 30px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome @emp.Name</h1>
+
+    <h4>Employee Details</h4>
+    <table>
+        <tr>
+            <th>Field</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>EmpID:</td>
+            <td>@emp.EmpId</td>
+        </tr>
+        <tr>
+            <td>Name:</td>
+            <td>@emp.Name</td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td>@emp.Email</td>
+        </tr>
+        <tr>
+            <td>Location:</td>
+            <td>@emp.Location</td>
+        </tr>
+        <tr>
+            <td>JoinDate:</td>
+            <td>@emp.JoinDate</td>
+        </tr>
+        <tr>
+            <td>Salary:</td>
+            <td>@emp.Salary</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td>
+                <a href="\Employee\Index">GET DETAILS OF ALL EMPLOYEE</a>
+            </td>
+            <td>
+                <a href="/Employee/DeleteEmployee?EmpId=@emp.EmpId">Delete</a>
+                <span>   </span>
+                <a href="/Employee/UpdateEmployee?empId=@emp.EmpId">Update</a>
+
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
