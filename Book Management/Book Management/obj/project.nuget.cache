@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUMftKEeDQaErwpFGxi1BqJZDAcVZWMC3Ujp+sr6AL59XoSpuv4fOohjn0+xytubBRqwOcYX/44eC0K4nvvrzw==",
+  "success": true,
+  "projectFilePath": "F:\\DOT NET\\iacsdmyprojects\\Book Management\\Book Management\\Book Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
