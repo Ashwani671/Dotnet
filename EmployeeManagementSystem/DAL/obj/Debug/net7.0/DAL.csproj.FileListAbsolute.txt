@@ -1,0 +1,60 @@
+D:\CDAC\DotNet\Organization\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\CDAC\DotNet\Organization\DAL\bin\Debug\net7.0\DAL.dll
+D:\CDAC\DotNet\Organization\DAL\bin\Debug\net7.0\DAL.pdb
+D:\CDAC\DotNet\Organization\DAL\bin\Debug\net7.0\BOL.dll
+D:\CDAC\DotNet\Organization\DAL\bin\Debug\net7.0\BOL.pdb
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.dll
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\DAL.pdb
+D:\CDAC\DotNet\Organization\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\git\Organization\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\git\Organization\DAL\bin\Debug\net7.0\DAL.dll
+E:\git\Organization\DAL\bin\Debug\net7.0\DAL.pdb
+E:\git\Organization\DAL\bin\Debug\net7.0\BOL.dll
+E:\git\Organization\DAL\bin\Debug\net7.0\BOL.pdb
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.dll
+E:\git\Organization\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\git\Organization\DAL\obj\Debug\net7.0\DAL.pdb
+E:\git\Organization\DAL\obj\Debug\net7.0\ref\DAL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\BOL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\DAL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\bin\Debug\net7.0\BOL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\DAL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,52 @@
+﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Get By ID";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Let's Get The Employee By ID</h1>
+</div>
+<div>
+    @{
+
+        Employee foundEmp = ViewBag.FOUNDEMP;
+
+    <form action="/Home/Update" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">ID</label>
+                <input type="text" class="form-control" id="id" name="id" readonly value="@foundEmp.ID">
+        </div>
+        <div class="mb-3">
+            <label for="empname" class="form-label">Name</label>
+                <input type="text" class="form-control" id="empname" name="empname" >
+        </div>
+        <div class="mb-3">
+            <label for="designation" class="form-label">Designation</label>
+                <input type="text" class="form-control" id="designation" name="designation" >
+        </div>
+        <div class="mb-3">
+            <label for="department" class="form-label">Department</label>
+                <input type="text" class="form-control" id="department" name="department" >
+        </div>
+        <div class="mb-3">
+            <label for="city" class="form-label">City</label>
+                <input type="text" class="form-control" id="city" name="city" >
+        </div>
+        <div class="mb-3">
+            <label for="salary" class="form-label">Salary</label>
+                <input type="text" class="form-control" id="salary" name="salary" >
+        </div>
+        <div class="mb-3">
+            <label for="joiningdate" class="form-label">Joining Date</label>
+            <input type="date" class="form-control" id="joiningdate" name="joiningdate" required>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">I Request Politely To Update These Details, Sorry For Inconvenience !</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+   
+    }
+</div>

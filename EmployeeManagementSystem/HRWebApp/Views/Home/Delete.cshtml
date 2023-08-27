@@ -1,0 +1,28 @@
+﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Firing";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Firing An Employee From The Organization</h1>
+    <br/>
+    <h3 class="display-4">-: Please Enter A Valid Employee ID To Fire :- </h3>
+</div>
+<div>
+
+    <form action="/Home/Delete" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">Employee ID</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">I'm Sure To Fire This Employee From Our Organization.</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Fire</button>
+    </form>
+
+
+
+</div>

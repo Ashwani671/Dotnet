@@ -1,0 +1,236 @@
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\appsettings.Development.json
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\appsettings.json
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.staticwebassets.runtime.json
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.exe
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.deps.json
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.runtimeconfig.json
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.pdb
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\Google.Protobuf.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\MySql.Data.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\ZstdSharp.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\BOL.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\DAL.dll
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\BOL.pdb
+D:\CDAC\DotNet\Organization\HRWebApp\bin\Debug\net7.0\DAL.pdb
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.AssemblyReference.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfo.cs
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cs
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.HRWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.HRWebApp.props
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRWebApp.props
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRWebApp.props
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\bundle\HRWebApp.styles.css
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\projectbundle\HRWebApp.bundle.scp.css
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CopyComplete
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.dll
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\refint\HRWebApp.dll
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.pdb
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.genruntimeconfig.cache
+D:\CDAC\DotNet\Organization\HRWebApp\obj\Debug\net7.0\ref\HRWebApp.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\appsettings.Development.json
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\appsettings.json
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.staticwebassets.runtime.json
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.exe
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.deps.json
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.runtimeconfig.json
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\HRWebApp.pdb
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\Google.Protobuf.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\MySql.Data.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\ZstdSharp.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\BOL.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\DAL.dll
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\BOL.pdb
+E:\git\Organization\HRWebApp\bin\Debug\net7.0\DAL.pdb
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.AssemblyReference.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfoInputs.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfo.cs
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CoreCompileInputs.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cs
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.HRWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.HRWebApp.props
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRWebApp.props
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRWebApp.props
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.build.json
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\staticwebassets.development.json
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\bundle\HRWebApp.styles.css
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\scopedcss\projectbundle\HRWebApp.bundle.scp.css
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CopyComplete
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.dll
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\refint\HRWebApp.dll
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.pdb
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\HRWebApp.genruntimeconfig.cache
+E:\git\Organization\HRWebApp\obj\Debug\net7.0\ref\HRWebApp.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\appsettings.Development.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\appsettings.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.staticwebassets.runtime.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.exe
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.deps.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.runtimeconfig.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\Google.Protobuf.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\MySql.Data.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\ZstdSharp.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\DAL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BOL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\DAL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.AssemblyReference.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfoInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfo.cs
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CoreCompileInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cs
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.HRWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.HRWebApp.props
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRWebApp.props
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRWebApp.props
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.build.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.development.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\bundle\HRWebApp.styles.css
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\projectbundle\HRWebApp.bundle.scp.css
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CopyComplete
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\refint\HRWebApp.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.genruntimeconfig.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\ref\HRWebApp.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\appsettings.Development.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\appsettings.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.staticwebassets.runtime.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.exe
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.deps.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.runtimeconfig.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\HRWebApp.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\Google.Protobuf.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\MySql.Data.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\ZstdSharp.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\DAL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\BOL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\bin\Debug\net7.0\DAL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.AssemblyReference.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfoInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.AssemblyInfo.cs
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.RazorAssemblyInfo.cs
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.HRWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.HRWebApp.props
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRWebApp.props
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRWebApp.props
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\bundle\HRWebApp.styles.css
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\scopedcss\projectbundle\HRWebApp.bundle.scp.css
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.csproj.CopyComplete
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\refint\HRWebApp.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\HRWebApp.genruntimeconfig.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\HRWebApp\obj\Debug\net7.0\ref\HRWebApp.dll

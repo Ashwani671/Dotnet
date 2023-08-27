@@ -1,0 +1,5 @@
+create table employees(id int primary key, empname varchar(30), designation varchar(30), department varchar(30), city varchar(30), salary double(9,2), joiningdate Date);
+
+insert into employees values(1,"ABC","Analyst","SUPPORT","Pune",15000);
+insert into employees values(2,"LMN","Manager","HR","Mumbai",25000);
+insert into employees values(3,"DEF","Developer","SALES","Pune",35000);

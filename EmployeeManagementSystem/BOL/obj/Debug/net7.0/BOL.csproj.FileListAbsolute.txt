@@ -1,0 +1,48 @@
+D:\CDAC\DotNet\Organization\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\CDAC\DotNet\Organization\BOL\bin\Debug\net7.0\BOL.dll
+D:\CDAC\DotNet\Organization\BOL\bin\Debug\net7.0\BOL.pdb
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.dll
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\BOL.pdb
+D:\CDAC\DotNet\Organization\BOL\obj\Debug\net7.0\ref\BOL.dll
+E:\git\Organization\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\git\Organization\BOL\bin\Debug\net7.0\BOL.dll
+E:\git\Organization\BOL\bin\Debug\net7.0\BOL.pdb
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.dll
+E:\git\Organization\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\git\Organization\BOL\obj\Debug\net7.0\BOL.pdb
+E:\git\Organization\BOL\obj\Debug\net7.0\ref\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.pdb
+F:\DOT NET\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\ref\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\bin\Debug\net7.0\BOL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\BOL.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\BOL\obj\Debug\net7.0\ref\BOL.dll
